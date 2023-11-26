@@ -24,8 +24,7 @@
 
 > ![component_method(3)](https://github.com/R2Storeapp/StorageAccess/assets/147613731/14dc93e7-87b1-48db-810d-42e6ced8c304)
 > 
-> Get SDK Version
-
+> GetSdkVersion method is used to retrieve the Android SDK version of the device.
 > ![component_method(1)](https://github.com/R2Storeapp/StorageAccess/assets/147613731/91e3b843-346d-45c1-86f2-01de84dbdfcc)
 > 
 > Check permissions
